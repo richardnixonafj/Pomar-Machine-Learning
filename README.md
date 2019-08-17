@@ -1,5 +1,4 @@
 # Pomar-Machine-Learning
-[![Build Status](https://travis-ci.org/richardnixonafj/Pomar-Machine-Learning.svg?branch=master)](https://travis-ci.org/richardnixonafj/Pomar-Machine-Learning)
 [![Updates](https://pyup.io/repos/github//richardnixonafj/Pomar-Machine-Learning/shield.svg)](https://pyup.io/repos/github/richardnixonafj/Pomar-Machine-Learning)
 [![Python 3](https://pyup.io/repos/github/richardnixonafj/Pomar-Machine-Learning/python-3-shield.svg)](https://pyup.io/repos/github/richardnixonafj/Pomar-Machine-Learning/)
 
